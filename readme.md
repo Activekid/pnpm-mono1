@@ -1,0 +1,1 @@
+# 参考 https://juejin.cn/post/7222636308740063287  shitf+右键打开powershell窗口执行 npm adduser lizhiweinpmorg，邮箱验证码 ， pnpm 在git bask执行， 在powershell可以执行npm 来执行命令
